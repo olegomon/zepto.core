@@ -1,0 +1,11 @@
+{
+  "name": "zepto.selector",
+  "version": "1.0.0rc1",
+  "main": "./zepto.js",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olegomon/zepto.core.git"
+  }
+}
