@@ -1,0 +1,22 @@
+{
+  "name": "zepto",
+  "version": "1.0.0",
+  "main": "./zepto.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olegomon/zepto.core.git"
+  },
+  "homepage": "https://github.com/olegomon/zepto.core",
+  "description": "Zepto 1.0.0 build",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
